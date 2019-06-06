@@ -1,0 +1,7 @@
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\VisitorElecticZ\VisitorElecticZ\bin\Debug\VisitorElecticZ.exe.config
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\VisitorElecticZ\VisitorElecticZ\bin\Debug\VisitorElecticZ.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\VisitorElecticZ\VisitorElecticZ\bin\Debug\VisitorElecticZ.pdb
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\VisitorElecticZ\VisitorElecticZ\obj\Debug\VisitorElecticZ.csprojAssemblyReference.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\VisitorElecticZ\VisitorElecticZ\obj\Debug\VisitorElecticZ.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\VisitorElecticZ\VisitorElecticZ\obj\Debug\VisitorElecticZ.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\VisitorElecticZ\VisitorElecticZ\obj\Debug\VisitorElecticZ.pdb
